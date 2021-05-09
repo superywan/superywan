@@ -1,8 +1,6 @@
 ## 🌏 Find me around the web 
 * My personal website [eddyyi.dev](https://www.eddyyi.dev/)
 * Sharing updates on [LinkedIn](https://www.linkedin.com/in/eddy-yi-99a4221b7)
-* Photos on [Instagram](https://www.instagram.com/superywan/)
-* Selected bangers on [Spotify](https://open.spotify.com/user/drstqdzdeml1e0tt1iq5is3ru?si=5129a3d78f9344a7)
 
 
 ## 🛠 Technologies and Tools 
