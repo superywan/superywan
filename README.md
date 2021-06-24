@@ -1,6 +1,6 @@
 ## 🌏 Find me around the web 
 * My personal website [eddyyi.dev](https://www.eddyyi.dev/)
-* Sharing updates on [LinkedIn](https://www.linkedin.com/in/eddy-yi-99a4221b7)
+* Sharing updates on [LinkedIn](https://www.linkedin.com/in/eddy-yi-99a4221b7)Cancel changes
 
 
 ## 🛠 Technologies and Tools 
@@ -15,7 +15,3 @@
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/> <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-
-## 🙋🏻‍♂️ Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superywan&line_height=25&hide_title=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superywan&layout=compact&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-
