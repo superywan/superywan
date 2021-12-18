@@ -14,9 +14,3 @@
   </samp>
   </p>
 </details>
-<br>
-<samp>
-  <p align="center">
-    From <a href="https://github.com/superywan/superywan">Eddy Yi</a>
-  </p>
-</samp>
